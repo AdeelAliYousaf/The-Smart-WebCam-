@@ -1,5 +1,4 @@
-Project: The Smart Webcam
-Overview:
+## Project Overview:
 The Smart Webcam project is a Python-based application designed to manage and monitor different types of cameras. It integrates various technologies and libraries to offer three main functionalities: webcam, IP webcam, and external camera support. The project uses Tkinter for the graphical user interface, SendGrid API for sending email notifications, CSV files for attendance marking, and dlib for face recognition.
 
 ## Screenshots
